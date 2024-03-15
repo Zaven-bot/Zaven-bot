@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ian Unebasami [@Zaven-bot]
-- 👀 I’m interested in performing data analytics and ML to help serve underrepresented communities.
+- 👀 I’m interested in performing data analytics and ML to help serve underserved communities.
 - 🌱 I’m currently learning Statistical methods for data analysis to apply to ML-heavy data mining techniques.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... by mail on ian.unebasami@tufts.edu
