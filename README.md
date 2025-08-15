@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian Unebasami [@Zaven-bot]
-- 👀 I’m interested in machine learning deployment to solve real problems! :)
-- 🌱 I’m currently learning Docker.
+- 👀 I’m interested in utilizing software engineering to solve real problems! :)
+- 🌱 I’m currently creating my own anime stats tracker.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... by mail on ian.unebasami@tufts.edu
 
